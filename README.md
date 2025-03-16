@@ -17,7 +17,7 @@ This is the frontend for the secure authentication system using React, Flowbite,
 
 ### 1️. Clone the Repository
 
-git clone https://github.com/vatsal-elearning/authentication-frontend.git
+git clone https://github.com/vatsal-elearning/authentication-frontend.git  
 cd authentication-frontend
 
 ### 2. Install Dependencies
